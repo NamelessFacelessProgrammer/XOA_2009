@@ -1,0 +1,46 @@
+This project was inspired by some of my frustrations with the One Laptop
+Per Child (OLPC) Give One Get One (G1G1) program for the XO-1 which I
+participated in, in late 2007.
+
+I wrote some code for the XO that was never released to the XO community
+because I perceived it to be hostile to the level of openness that I
+think is required for the project to see genuine success.  That code
+will be, in time, released via GitHub.
+
+Prime among those frustrations was the GNU GPL.  That license is
+certainly admirable, and was, historically, the inaugural step toward
+enlightened licensing.  As the preamble here explains, it has some
+deficiencies.
+
+I created the license here to address and resolve my frustrations.  I am
+not a lawyer, yet I do, unfortunately, have extensive experiences with
+the machinations of the law.
+
+The key idea expressed by this license was inspired by a chemistry
+seminar presented by a patent lawyer that I attended some years ago.  He
+expressed that the essential right conveyed by intellectual property law
+is the right to exclude.  Therefore, any license is, at some level,
+immoral, including this license.
+
+Intellectual property law addresses the territorial needs of the selfish.
+Therefore, any open source license, including this one, will ultimately
+always be inadequate, for altruism is unsupported by the law.  This
+license aims to be an improvement on the goal of sharing while excluding
+those who are, at heart, thieves.  It is important to realize that a
+great deal of theft is perfectly legal, and indeed, is often expected.
+
+The gist of the license, like GitHub, promotes forking.  The goal is to
+afford a forked project with the luxury of appropriating legacy code as
+its own after some minimum level of overwhelming extension.  This is
+expressed by awarding the right to change licensing if so desired.
+
+Anyone familiar with the distinction between class objects and class
+instances will be able to easily understand the license.  It is
+desireable for this license to be compatible with the GNU licenses, the
+numpy license, the python license, and the apache license.  To the
+extent that it is not, this author will entertain suggestions for
+alteration, and ultimately some forks of the license will result.
+
+Any forks will be called XOA_20XX where XX is the current year or some
+future year.  As a final note, unless otherwise explicitly and
+justifiably requested, all of my work will carry this license.

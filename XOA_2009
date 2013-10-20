@@ -1,0 +1,450 @@
+Purpose and Disclaimer
+----------------------
+
+The XOA_2009 is a contractual agreement (license) that has been created for use
+with software intended for cost free distribution to owner's of the olpc XO-1 or
+subsequent devices, that specifically considers the needs of third world recipients.
+The agreement may additionally be used for creative content of any kind.
+
+XOA stands for eXtended Open Agreement.  The XOA_2009 may be applied to a creative
+work in three variations designated as follows:
+  XOA_2009  (pronounced zoa):  commercial exclusions are applied
+  XOAR_2009 (pronounced zoar): commercial exclusions are restricted
+  XOAW_2009 (pronounced zow):  commercial exclusions are waived
+This agreement, XOA_2009, is itself a creative work licensed under XOAW_2009.
+
+The author of this agreement is Nameless Faceless Programmer, and is in no manner,
+in the present or past, formally affiliated with the One Laptop Per Child (olpc)
+organization.
+
+Introduction
+------------
+
+This section establishes the context of and need for XOA_2009.  The specific license
+provisions are given under the subsequent heading labeled XOA_2009.
+
+Intellectual property law, be it patent, copyright, or trademark law, is intended to
+bestow certain benefits to, and protect certain rights of, inventors, authors, or
+creators (herein after referred to as creators) in order to encourage them to share
+the fruit of their labors for the benefit of the broader community.  Ironically, the
+smaller social structures in that community in which many creators find themselves
+entangled usually require creators to surrender those benefits and rights in return
+for some minimal consideration, typically one dollar together with the putative
+privilege of remaining a member of and participant in those social structures.
+
+The mechanism of surrender is the transfer of ownership of the intellectual property
+to the smaller social structure.  This transfer is, in effect, an exclusive license
+that the creator awards to his or her umbrella organization.
+
+The principal right intellectual property law awards to the creator or subsequent
+owner is the right to exclude.  Intellectual property law provides mechanisms for a
+creator to lay claim to some well defined and limited creative domain, together with
+the authority to exclude others from that domain at will.  The mechanism by which
+others may be preferentially included in or merely permitted to enter the creative
+domain is called a license, which is a form of contractual agreement.  The terms
+imposed by a license are entirely at the discretion of the owner of the intellectual
+property, who is, initially, its creator.
+
+Commercial licenses are typically designed to transform the right to exclude into
+monetary benefit accruing to the owner of the intellectual property, who, as noted
+above, is typically not the creator of the intellectual property.  In the realm of
+commercial software, the principal means used to protect the pecuniary interests of
+the licensor is to exclude the licensee from all rights save the right to use the
+software as delivered, in highly limited installation circumstances.  Commercial
+licenses therefore address the needs of the owner of the intellectual property to the
+exclusion of the needs of creators and users of the intellectual property.
+
+In order to provide some relief from this imbalance of rights, there has arisen the
+concept of open source licensing.  The inaugural example of this type of license was
+Richard Stallman's GNU Public License (GPL), now administered by the Free Software
+Foundation as GPL 2.0 and GPL 3.0.  Many similar variations on these ideas are in use,
+of which the Python License is most germane to the immediate purpose.
+
+In these licenses, the right to exclude is used, abstractly, to protect the rights of
+the original creator and some of the rights of the licensees, by excluding from the
+license all whose purpose would in some way serve to exclude subsequent licensees and
+creators from the benefits bestowed upon the original creator by the larger community,
+or the rights bestowed by the original creator to inaugural licensees.  All others,
+that is those whose purpose is altruistic, are implicitly included by the license.
+
+Open source licenses are therefore recursive, a truth that was made explicitly clear
+in Stallman's original GPL, and has since been obscured or lost entirely by many
+licenses, including the GPL.  It is the nature of the practice of law that the right
+to exclude is always expressed indirectly by designating specific, unambiguous
+inclusions, together with some refining specific, unambiguous exclusions, all other
+cases being implicitly excluded.  An open source license attempts to use this
+cumbersome practice to express altruistic inclusion in a social milieu that caters to
+the needs of selfish exclusion.
+
+There are two defects in the implementation of these earlier licenses that encumber
+these altruistic purposes in the present case, one of a general nature, and one
+specific to the client community of the XO, namely, third world children.  It is the
+purpose of the XOA_2009 to resolve these defects.
+
+Specifically, prior licenses fail to protect the right of creators of derivative
+works to, at some critical point of overwhelming creative contribution, take full
+ownership of their derivative work, thereafter requiring only acknowledgement of the
+original work and creator as inspirational to the derivative work.  This failure
+becomes especially onerous when the client community comprises third world children.
+
+Legal challenges to open source licenses have been largely predicated upon the
+principle that the creator of an original work has no right to recursively impose
+restrictions on control of the portions of a derivative work that are wholly original
+to the creator of that derivative.  Open source licenses have responded to these
+challenges in theory by requiring that wholly original derivative portions of a
+creative work be cleanly separated from the ancestral work in order for derivative
+creators to lay claim to the rights accruing to their original works.  The most
+important right is the right to chose a different license that is more suitable for
+the intended audience of the derivative work.  The right to create a well integrated
+and efficient derivative is also impaired, which is contrary to the spirit of the
+open source community.
+
+In practice, licenses are frequently violated, with the creators of derivative works
+relying on the unenforceability of all but the most egregious violations.  This
+circumstance is especially unacceptable when the client community is third world
+children.  One can hardly claim to be looking out for the best future interests of
+those children, while encouraging them to independently and creatively alter software,
+an act that has the potential for entangling them in quagmires of legal due process
+with consequences about which they can have no genuine comprehension.  Nor can the
+expectation that children blindly adopt the GPL or Python license be considered
+selfless, when other possibilities may better serve the immediate and long term
+interests of a child and their local community.  It is therefore necessary to
+expressly protect the best interests of children by exempting them from liability.
+
+In order to remedy the general defect, it is necessary to provide an escape mechanism
+by which a derivative creator may lay claim of ownership to residual ancestral
+portions of a work, giving only attribution to the original, provided the work
+original to the derivative exceeds some benchmark percentage of the whole derivative
+work.  Providing such an escape clause answers the primary legal challenge to open
+source licenses very effectively.  In consideration of the privilege given by a
+creator making source and design documents available, without which a derivative
+would be very difficult or impossible to produce, the creator of the original work
+requires apriori that the creator of a derivative meet certain standards of
+originality as a condition of parting ways.
+
+Since this condition is known to the creator of the derivative before hand, it is
+enforcable.  If a potential creator of a derivative finds this condition unacceptable,
+the potential creator is free not to accept the license and therefore not create the
+derivative.  No unreasonable hardship is imposed by the license.  In summary, by
+virtue of providing aid to derivative creators, the original creator has every right
+to insist that derivative creators earn their release from contractual obligations by
+doing the work, provided the terms of release are well defined apriori.
+
+While effective, this escape mechanism introduces a modicum of ambiguity in the
+judgement of what percentage of a work is original and how much is derivative.  While
+such provisions are anathema to the legal community, they have precedent.  The most
+notable exception to rigorous clarity in this context is the notion of a concept that
+is "non-obvious to a person having ordinary skill in the art" adopted by patent law
+as a metric for novelty.  In that same body of law, there is also ambiguity
+introduced by excluding laws of nature and mathematical truths from patentability.
+
+Arguably, all software expresses mathematical truths, yet when those truths are
+merely a critical means in a larger process that performs some novel and useful
+function, software has been found to be patentable, in much the same way that
+constructs that harness laws of physics to useful end are patentable.  Historically,
+these ambiguities have been resolved by litigation.
+
+Following these precedents in patent law, a hypothetical person having ordinary skills
+in the art of a work is assumed for the purpose of determining how much is original
+to an ancestral work and how much is original to the derivative.  This convention has
+the effect of making the license more open to those whose motives are true to the
+values of the open source community, while simultaneously making it potentially more
+litigious to those who would subvert altruistic values.
+
+XOA_2009
+--------
+
+0) Definitions:
+
+   Original work -
+       is the fruit of some creative endeavor by an individual or organization
+       together with the data and documents necessary to reproduce that work.
+
+   Derivative work -
+       is an original work that is an alteration, adaptation, or transformation
+       of some other original work.
+
+   Ancestral work -
+       is an original work from which a derivative work has, in part, been created.
+
+   Captive work -
+       is a derivative work in which less than 62% of the work is the original work
+       of the creator of the derivative, as judged by a person having ordinary skill
+       in the arts germane to creation of the particular work under consideration.
+       A captive work does not meet the standards for release from this license.
+
+   Emancipated work -
+       is a derivative work in which more than 62% of the work is the original work
+       of the creator of the derivative, as judged by a person having ordinary skill
+       in the arts germane to creation of the particular work under consideration.
+       An emancipated work meets the standards for release from this license.  If an
+       emancipated work is re-licensed under this license, it becomes, for the 
+       purposes of this license, a work wholly original to the creator of the
+       emancipated work.
+
+   Manufactured work -
+       is a verbatim reproduction of an original work.  In the case where the
+       original work constitutes a design, a manufactured work is either a verbatim
+       reproduction of the design itself or a specific realized instance of the
+       design.
+
+   Software -
+       is a manufactured work that constitutes a design.  A specific installation,
+       configuration, compilation, or instantiation of that software is a specific
+       realized instance of the design.
+
+   Work -
+       is any of the above defined works.
+
+   Creator -
+       is an individual or organization that is responsible for the creation of
+       some original work.
+
+   Licensor -
+       is an individual or organization that has adopted this license for some
+       original work.
+
+   Licensee -
+       is an individual or organization subject to the terms of this license.
+
+   License -
+       is a contractual agreement between a licensor and licensee, and may refer
+       either to this license or some other license.
+
+   Manufacturing -
+       is the act of reproducing an original work.  For the purposes of text, or
+       graphics governed by this license, manufacturing means copying.  In the case
+       where the original work constitutes a design, manufacturing means either
+       copying the design itself or realizing the design as a specific instance.
+
+   Distributing -
+       is the act of making an original or manufactured work available to others.
+
+1) Interpretation:
+
+   For the purposes of interpreting the meaning and intent of the provisions of this
+   License, the text under the preceding headings 'Purpose and Disclaimer' and
+   'Introduction' is hereby incorporated by reference.
+
+2) Stakeholders:
+
+   This license constitutes a contractual agreement among the following stakeholders:
+
+  a) The creator of an original work who has adopted this license for that work
+  b) Users of works governed by this license
+  c) Creators of works derived in part from works governed by this license
+  d) Manufacturers of works governed in whole or in part by this license
+  e) Distributors of works governed in whole or in part by this license
+
+   This license establishes the rights, benefits, and responsibilities that accrue to
+   each of these stakeholders.
+
+3) Acceptance:
+
+   The terms of this license are made binding by any of the following actions:
+
+  a) Choosing to use this license for an original work
+  b) Using a work governed by this license
+  c) Creating a derivative work from a work governed by this license
+  d) Manufacturing a work governed in whole or in part by this license
+  e) Distributing a work governed in whole or in part by this license
+
+   Adoption of this license is expressed by prominently displaying the text:
+     "licensed under XOA_2009"
+   in one or more places in a work, together with inclusion of the full text of
+   this license with each manufacture of the work.
+
+4) Licensee liability exemption:
+
+   Children beneath the age of majority in their respective nations are exempt from
+   ALL liability for violations of this license provided only that:
+
+  a) When adults responsible for those children are informed in writing in their
+     native language of any violation, they immediately put a stop to all violating
+     activity and follow the procedure for coming into conformance that MUST be
+     provided by the licensor as part of the written notification in order for that
+     notification to be valid, and
+  b) In the event the responsible adults willfully disregard notification of
+     violations, they can only be held liable for violations committed after
+     notification.  In no event can ANY child be held liable for ANY violations or
+     for ANY direct, indirect, or consequential damages.
+
+   In ALL cases, the burden of pursuit and rectification of any violations by
+   children, including any legal fees and consequential damages, shall be born by
+   the licensor.
+
+5) Licensor liability exemption:
+
+   The creator of an original work subject to this license can in no manner be held
+   liable for any damages, direct, indirect, or consequential, resulting from the
+   use, alteration, manufacture, or distribution of the work.
+
+6) Non-commercial manufacturing and distribution:
+
+   Creation and distribution of manufactured works as defined above is permitted
+   under the terms of the Creative Commons license CC-BY-NC-ND version 3.0, the terms
+   of which are hereby incorporated by reference.  See www.creativecommons.org for
+   details.  Specifically, the complete text of XOA_2009 MUST be included unaltered
+   in its original location in any manufactured or distributed work.
+
+   Non-commercial manufacture and distribution of a specific instance of a design
+   governed by this license is permitted provided that complete design data and
+   documents, together with this license, are distributed with each specific
+   manufactured instance.
+
+7) Commercial manufacturing and distribution:
+
+   Commercial manufacturing or distribution is permitted only with the written
+   permission of the creator of a work governed by this license.  This permission
+   may include additional requirements and restrictions.
+
+   Commercial manufacture of a specific instance of a design governed by this
+   license is permitted only with the written permission of the creator of a work
+   governed by this license.  This permission may include additional requirements
+   and restrictions.
+
+   The creator of an original work may expressly waive written permission as part
+   of a work, whereby that waiver, together with any additional requirements or
+   restrictions incorporated in that waiver constitute written permission.  The
+   presence of such a waiver is expressed by use of the following text describing
+   the license:
+     "licensed under XOAW_2009" in the case of unrestricted waiver, or
+     "licensed under XOAR_2009" in the case of a waiver accompanied by additional
+                                restrictions or requirements.
+
+   The creator of a captive work may only give permission to commercially manufacture
+   and distribute the captive work with the express permission of the creators of ALL
+   ancestral works upon which the captive work is based.  This expression may be in
+   the form of waivers.
+
+   All permitted commercial manufacture and distribution of a specific instance of
+   a design governed by this license MUST include complete design data and documents,
+   together with this license, with each specific manufactured instance. 
+
+8) Disclosure and promotion:
+
+   The licensor, by adopting this license, agrees to fully disclose ALL design detail
+   of a work that may be necessary to use, alter, manufacture or distribute the work.
+   This design detail is considered part of any verbatim reproduction, and MUST be
+   included as part of the work by any licensee who choses to manufacture or
+   distribute the work, either as a whole, or as a realized instance of a design.
+
+   The licensee, in turn agrees to refrain from using the name, likeness, reputation
+   or other personally identifying information, tradenames, or trademarks belonging
+   to the licensor in ANY promotional material, without prior written permission of
+   the licensor.  Any implication that the licensor endorses any activities or
+   products of the licensee is specifically prohibited. 
+
+9) Naming:
+
+   The creator of an original work is free to adopt any naming conventions of the
+   creator's choosing for the purposes of promotion, distribution, or manufacture.
+   For the purpose of licensing, however, the creator must adopt a name with the
+   following format:
+     Name_yyyymmdd
+   Where 'Name' is a name uniquely identifying the original work, preferably one
+   that has a clear relationship to the names used to promote, distribute, or
+   manufacture the work.  'yyyymmdd' is a serial number expressing the date of
+   release of the original work to the public.  'yyyy' designates the year, 'mm'
+   designates the month, and 'dd' designates the day of the month.  When releases
+   are less frequent, 'dd' or 'mm' may be omitted, e.g. XOA_2009 instead of
+   XOA_200901 or XOA_20090101.
+
+   A captive derivative work must adopt, for the purpose of licensing, a name with
+   the following format:
+     Name_Captive_yyyymmdd
+   where 'Name' is the XOA_2009 license name of the ancestral work from which the
+   derivative is principally derived, and Captive is a uniquely identifying name the
+   creator of the derivative envisions using when the derivative work becomes
+   emancipated.  For example, a captive derivative of this license might be named
+   XOA_ZOA_2010, and be named ZOA_2011 once emancipated, if its creator chose to
+   license under XOA_2009.
+
+   These naming conventions are a service provided by the licensor to the licensee.
+   They enable the licensee to easily determine freshness when comparing various
+   original works or derivatives, and version sequence when comparing different
+   revisions of a single original work in a completely unambiguous way.
+
+10) Derivative works:
+
+   In consideration of the privilege afforded to the licensee by the graciousness
+   of a licensor providing full disclosure of design detail of a work, derivative
+   works are permitted subject to the following terms:
+
+  a) Captive works, as defined above:
+
+    i) MUST be licensed under XOA_2009
+   ii) MUST acknowledge ancestral works and creators
+
+  b) Emancipated works as defined above:
+
+    i) MUST acknowledge ancestral works and creators
+   ii) MUST share and share alike: All design detail original to any ancestral
+       work MUST remain publically available.  If this detail is intermingled
+       with detail original to the derivative work, then that new detail MUST
+       also be made publically available.
+  iii) As much as 38% of ALL design detail of the emancipated work that its
+       creator makes publically available, may be incorporated in ANY original
+       or derivative work subject to this license, with no special permission,
+       provided only that the work incorporating the design detail MUST
+       acknowledge the emancipated work as the source of the design detail.
+   iv) An emancipated work may subsequently be licensed under any license compatible
+       with these terms that the creator of the emancipated work deems suitable.
+
+   If a potential creator of a derivative work finds these conditions unacceptable,
+   the potential creator is free to choose not to make a derivative work.
+
+11) Irrevocability:
+
+   A licensor may choose to use a subsequent revision of XOA_2009, e.g. XOA_2010, as
+   a license for a revision of an original work.  By choosing to license an original
+   work with this license, however, the creator of the work becomes subject to these
+   terms.  In particular, the only option available for removing this license from
+   revisions of the work is to create a derivative work that meets the standards of
+   release from this license for emancipated works as defined above.
+
+   In such a case, the derivative may be released as a wholly original work under any
+   suitable license of the creator's choosing, just as might happen with any other
+   creator's derivative emancipated work.
+
+   The only distinction of such a derivative is that the creator of the derivative is
+   the same as the creator of the original work.  As such, one additional privilege
+   that is unique to this circumstance is available to the creator as licensor of the
+   derivative: once the derivative work meets the standards for release from this
+   license, the creator may revert the naming of the derivative to the naming of the
+   ancestral works, effectively discontinuing the use of this license from the new
+   and subsequent editions of the work.
+
+   Ancestral versions of the work will, nevertheless, remain subject to the terms of
+   this license, including any intervening versions of the derivative made available
+   prior to meeting the standards for release from this license.
+
+12) Non-exclusivity:
+
+   The licensor may simultaneously license an original work under this and other
+   licenses, provided that the other licensed works contain prominent notification
+   that the work is also licensed under this license, and that the terms of this
+   license must be observed.  In the event that the terms of an additional license
+   conflict with this license, the more restrictive terms shall govern.
+
+   This provision is useful for providing additional requirements and restrictions
+   to a commercial licensee in an efficient manner.
+
+13) Conveyance:
+
+   The rights, benefits, and responsibilities that accrue to the creator of an
+   original work governed by this license may be conveyed as an integral whole to
+   another individual or legal entity by a written instrument, expressly including
+   a last will and testament.
+
+   Such a conveyance MUST be exclusive, and upon execution, the creator of the work
+   so conveyed shall cease to be a stakeholder classified as a creator of the work.
+   The recipient will correspondingly become a stakeholder bound by the terms of this
+   license, just as the creator of the work was, and becomes for the purposes of this
+   license the creator and licensor of the work.
+
+   In the event that the creator of a work dies, in the case of an individual, or
+   dissolves, in the case of an entity, without having made arrangements for the
+   transfer of rights, benefits, and responsibilities, the work governed by this
+   license shall enter the public domain and ALL of the provisions of this license
+   shall subsequently become null and void regarding the governance of the work.
